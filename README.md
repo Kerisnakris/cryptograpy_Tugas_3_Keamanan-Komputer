@@ -1,6 +1,6 @@
 # cryptograpy_Tugas_3_Keamanan-Komputer
 
-lab 1 Calculating One Way Hashes using HashCalc
+# lab 1 Calculating One Way Hashes using HashCalc
 Prasyarat
 HashCalc: Pastikan Anda telah mengunduh dan menginstal HashCalc di komputer Anda. Anda bisa mendapatkannya dari situs resmi HashCalc.
 Install Aplikasi
@@ -35,7 +35,7 @@ Install Aplikasi
 
 ![image](https://github.com/user-attachments/assets/b32a85d4-5d1b-43ba-a2f5-0e915e78b098)
 
-lab 2 Calculating MD5 Hashes using MD5 Calculator
+# lab 2 Calculating MD5 Hashes using MD5 Calculator
 Sebelum memulai, pastikan Anda sudah menginstal MD5 Calculator. Anda bisa mengunduhnya dari situs resmi MD5 Calculator atau sumber tepercaya lainnya.
 Install Aplikasi
 
